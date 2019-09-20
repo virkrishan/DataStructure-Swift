@@ -25,3 +25,4 @@ func linearSearch(array: [Int] , searchValue: Int) -> Int {
 }
 
 print("linear search \(linearSearch(array: array, searchValue: 45))")
+// krishna 
