@@ -23,5 +23,4 @@ func linearSearch(array: [Int] , searchValue: Int) -> Int {
     print("value not found")
     return 0
 }
-
 print("linear search \(linearSearch(array: array, searchValue: 45))")
